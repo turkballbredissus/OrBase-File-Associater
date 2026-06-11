@@ -1,0 +1,15 @@
+First of all, you need to put -- lang: *urlanguage* at the exact top of your code for OrBase to generally detect and run it
+List of supported languages:
+
+Language: Batch Header:	-- lang: batch Aliases:	bat, cmd
+Language: Python Header:	-- lang: python Aliases:	py
+Language: PowerShell Header:		-- lang: powershell Aliases:	ps1
+Language: JavaScript Header:		-- lang: javascript Aliases:	js, node
+Language: Ruby Header:		-- lang: ruby Aliases: rb
+Language: Perl Header:		-- lang: perl
+Language: PHP Header:		-- lang: php
+Language: Java Header:		-- lang: java
+Language: Lua Header:		-- lang: lua
+Language: Go Header:		-- lang: go
+Language: Rust Header:		-- lang: rust
+Language: R Header:		-- lang: r
